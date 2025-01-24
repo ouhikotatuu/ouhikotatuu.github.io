@@ -1,0 +1,1 @@
+import{D as t}from"./index-DHTjKAgc.js";function r(s){return t({url:"/system/subsystems/pageItem",method:"GET",params:s})}function m(s){return t({url:"/system/subsystems/updateRemark",method:"PUT",params:s})}export{m as U,r as l};

@@ -1,0 +1,1 @@
+import{D as r}from"./index-DHTjKAgc.js";function a(e){return r({url:"/market/overview/pageItem",method:"GET",params:e})}function o(e){return r({url:"/market/overview/saveOrUpdate",method:"POST",data:e})}function u(e){return r({url:"/market/overview",method:"DELETE",params:e})}export{o as A,u as d,a as l};

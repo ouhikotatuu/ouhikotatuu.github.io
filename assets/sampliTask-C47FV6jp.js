@@ -1,0 +1,1 @@
+import{D as r}from"./index-DHTjKAgc.js";function t(e){return r({url:"/sample/samplingRecord/pageItem",method:"GET",params:e})}function s(e){return r({url:"/sample/samplingRecord/saveOrUpdate",method:"POST",data:e})}function d(e){return r({url:"/sample/samplingRecord/",method:"DELETE",params:e})}export{s as a,d,t as l};
