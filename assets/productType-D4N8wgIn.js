@@ -1,1 +1,0 @@
-import{D as e}from"./index-DHTjKAgc.js";function u(t){return e({url:"/product/types/pageItem",method:"GET",params:t})}function d(t){return e({url:"/product/types/saveOrUpdate",method:"POST",data:t})}function o(t){return e({url:"/product/types",method:"DELETE",params:t})}export{d as A,o as d,u as l};
